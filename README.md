@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="img/bear.png">
+  <img src="img/bear.png" width=75%>
 </div>
-
-<h1 align="center">
-<a><strong>hotmess.codes</strong></a>
-</h1>
+<p>&nbsp</p>
+<p>&nbsp</p>
+<h2 align="center">
+<a><code><strong>hotmess.codes</strong></code></a>
+</h2>
