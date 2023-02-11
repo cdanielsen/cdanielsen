@@ -4,9 +4,5 @@
 <p>&nbsp</p>
 <p>&nbsp</p>
 <h2 align="center">
-  <a href=https://hotmess.codes>
-    <code>
-      <strong>hotmess.codes</strong>
-    </code>
-  </a>
+  <a href=https://hotmess.codes>hotmess.codes</a>
 </h2>
